@@ -1,0 +1,3 @@
+/mnt/d/Facultate/AN4/IEP/CMakeFiles/rebuild_cache.dir
+/mnt/d/Facultate/AN4/IEP/CMakeFiles/edit_cache.dir
+/mnt/d/Facultate/AN4/IEP/CMakeFiles/IEP.dir
